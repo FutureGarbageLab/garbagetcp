@@ -1,1 +1,3 @@
-# garbagetcp
+# GarbageTCP
+Welcome to GarbageTCP!
+
